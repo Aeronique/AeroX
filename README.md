@@ -28,7 +28,7 @@ Git
 
 Clone the Repository
 ```bash
-git clone https://github.com/your-username/AeroXToken.git
+git clone https://github.com/your-username/AeroX.git
 cd AeroXToken
 ```
 Install Dependencies
