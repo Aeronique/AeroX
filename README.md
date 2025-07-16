@@ -49,13 +49,13 @@ SEPOLIA_URL=https://sepolia.infura.io/v3/YOUR_PROJECT_ID
 PRIVATE_KEY=your_wallet_private_key
 ETHERSCAN_API_KEY=your_etherscan_api_key
 ```
-Compile & Deploy
+# Compile & Deploy
 
-# Compile contracts
+Compile contracts
 ```bash
 npx hardhat compile
 ```
-# Deploy to Sepolia
+Deploy to Sepolia
 ```bash
 npx hardhat run scripts/deploy.js --network sepolia
 ```
