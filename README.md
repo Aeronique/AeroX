@@ -29,7 +29,7 @@ Git
 Clone the Repository
 ```bash
 git clone https://github.com/your-username/AeroX.git
-cd AeroXToken
+cd AeroX
 ```
 Install Dependencies
 ```bash
