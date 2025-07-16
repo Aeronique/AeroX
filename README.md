@@ -14,7 +14,7 @@ Total Supply: 1,000,000 AEROX
 
 Sepolia Address: 0x2401497657e2dFd81e3B6Eb0287Dbbf059552969
 
-Verified on Sepolia Etherscan: View Source & ABI
+Verified on Sepolia Etherscan: [View Source & ABI](https://sepolia.etherscan.io/token/0x2401497657e2dFd81e3B6Eb0287Dbbf059552969)
 
 # 🚀 Getting Started
 
