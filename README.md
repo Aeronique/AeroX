@@ -2,7 +2,7 @@
 
 A simple ERC-20 token deployed on the Sepolia testnet.
 
-🔗 Contract Details
+# 🔗 Contract Details
 
 Name: AeroX
 
@@ -16,7 +16,7 @@ Sepolia Address: 0x2401497657e2dFd81e3B6Eb0287Dbbf059552969
 
 Verified on Sepolia Etherscan: View Source & ABI
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 Prerequisites
 
@@ -63,7 +63,7 @@ Verify on Etherscan
 ```bash
 npx hardhat verify --network sepolia 0xYourContractAddress 1000000000000000000000000
 ```
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
